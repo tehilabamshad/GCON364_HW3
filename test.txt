@@ -1,0 +1,2 @@
+Name: Mr. John Smith	Address: 1234 East 5th Brooklyn, NY  11230 Phone Number: 7184436789 SS Num: 0000000 Type: Customer
+Name: Dr. David Cohn	Address: 674 East 3rd Brooklyn, NY  11229 Phone Number: 7186321255 SS Num: 000000000 Type: Employee
